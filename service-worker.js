@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Project-Vigil-1602/precache-manifest.79986398e7bad00a42c4f60661533721.js"
+  "/Project-Vigil-1602/precache-manifest.b9bedf751163daadd065ada8dce1f11c.js"
 );
 
 self.addEventListener('message', (event) => {
