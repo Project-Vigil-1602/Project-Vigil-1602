@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/Project-Vigil-1602/static/js/main.5ddd04c9.chunk.js",
-    "main.js.map": "/Project-Vigil-1602/static/js/main.5ddd04c9.chunk.js.map",
+    "main.js": "/Project-Vigil-1602/static/js/main.3ffdc059.chunk.js",
+    "main.js.map": "/Project-Vigil-1602/static/js/main.3ffdc059.chunk.js.map",
     "runtime-main.js": "/Project-Vigil-1602/static/js/runtime-main.e1d900f9.js",
     "runtime-main.js.map": "/Project-Vigil-1602/static/js/runtime-main.e1d900f9.js.map",
     "static/js/2.4847a82e.chunk.js": "/Project-Vigil-1602/static/js/2.4847a82e.chunk.js",
@@ -23,13 +23,13 @@
     "static/js/10.c03397ee.chunk.js": "/Project-Vigil-1602/static/js/10.c03397ee.chunk.js",
     "static/js/10.c03397ee.chunk.js.map": "/Project-Vigil-1602/static/js/10.c03397ee.chunk.js.map",
     "index.html": "/Project-Vigil-1602/index.html",
-    "precache-manifest.8afbbdd84bdb3c2926fa0749c6f06336.js": "/Project-Vigil-1602/precache-manifest.8afbbdd84bdb3c2926fa0749c6f06336.js",
+    "precache-manifest.dfbd6c00e6769b5b9e01d353933727d3.js": "/Project-Vigil-1602/precache-manifest.dfbd6c00e6769b5b9e01d353933727d3.js",
     "service-worker.js": "/Project-Vigil-1602/service-worker.js",
     "static/js/2.4847a82e.chunk.js.LICENSE.txt": "/Project-Vigil-1602/static/js/2.4847a82e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e1d900f9.js",
     "static/js/2.4847a82e.chunk.js",
-    "static/js/main.5ddd04c9.chunk.js"
+    "static/js/main.3ffdc059.chunk.js"
   ]
 }
