@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.js": "/Project-Vigil-1602/static/js/main.158e7fea.chunk.js",
+    "main.js.map": "/Project-Vigil-1602/static/js/main.158e7fea.chunk.js.map",
+    "runtime-main.js": "/Project-Vigil-1602/static/js/runtime-main.e1d900f9.js",
+    "runtime-main.js.map": "/Project-Vigil-1602/static/js/runtime-main.e1d900f9.js.map",
+    "static/js/2.137e8557.chunk.js": "/Project-Vigil-1602/static/js/2.137e8557.chunk.js",
+    "static/js/2.137e8557.chunk.js.map": "/Project-Vigil-1602/static/js/2.137e8557.chunk.js.map",
+    "static/js/3.2cb51922.chunk.js": "/Project-Vigil-1602/static/js/3.2cb51922.chunk.js",
+    "static/js/3.2cb51922.chunk.js.map": "/Project-Vigil-1602/static/js/3.2cb51922.chunk.js.map",
+    "static/js/4.1dc90962.chunk.js": "/Project-Vigil-1602/static/js/4.1dc90962.chunk.js",
+    "static/js/4.1dc90962.chunk.js.map": "/Project-Vigil-1602/static/js/4.1dc90962.chunk.js.map",
+    "static/js/5.2cc00835.chunk.js": "/Project-Vigil-1602/static/js/5.2cc00835.chunk.js",
+    "static/js/5.2cc00835.chunk.js.map": "/Project-Vigil-1602/static/js/5.2cc00835.chunk.js.map",
+    "static/js/6.fc087fe4.chunk.js": "/Project-Vigil-1602/static/js/6.fc087fe4.chunk.js",
+    "static/js/6.fc087fe4.chunk.js.map": "/Project-Vigil-1602/static/js/6.fc087fe4.chunk.js.map",
+    "static/js/7.792356f5.chunk.js": "/Project-Vigil-1602/static/js/7.792356f5.chunk.js",
+    "static/js/7.792356f5.chunk.js.map": "/Project-Vigil-1602/static/js/7.792356f5.chunk.js.map",
+    "static/js/8.911cb7ce.chunk.js": "/Project-Vigil-1602/static/js/8.911cb7ce.chunk.js",
+    "static/js/8.911cb7ce.chunk.js.map": "/Project-Vigil-1602/static/js/8.911cb7ce.chunk.js.map",
+    "static/js/9.6dd823ec.chunk.js": "/Project-Vigil-1602/static/js/9.6dd823ec.chunk.js",
+    "static/js/9.6dd823ec.chunk.js.map": "/Project-Vigil-1602/static/js/9.6dd823ec.chunk.js.map",
+    "static/js/10.c03397ee.chunk.js": "/Project-Vigil-1602/static/js/10.c03397ee.chunk.js",
+    "static/js/10.c03397ee.chunk.js.map": "/Project-Vigil-1602/static/js/10.c03397ee.chunk.js.map",
+    "index.html": "/Project-Vigil-1602/index.html",
+    "precache-manifest.79986398e7bad00a42c4f60661533721.js": "/Project-Vigil-1602/precache-manifest.79986398e7bad00a42c4f60661533721.js",
+    "service-worker.js": "/Project-Vigil-1602/service-worker.js",
+    "static/js/2.137e8557.chunk.js.LICENSE.txt": "/Project-Vigil-1602/static/js/2.137e8557.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e1d900f9.js",
+    "static/js/2.137e8557.chunk.js",
+    "static/js/main.158e7fea.chunk.js"
+  ]
+}
